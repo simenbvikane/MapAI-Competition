@@ -1,3 +1,23 @@
+# EY README
+
+## File structure
+
+
+```
+team_<NAME>
+│   README.md
+│   pyproject.toml    
+│
+└───src
+│   │   main.py
+│   │   sandbox Add .ipynb files her. Use <filename>_<name>.ipynb (testing_simen.ipynb)
+``` 
+
+
+
+
+
+---
 # Example code for team_example
 This folder contain the example code that you can use as a base.
 ## File structure
